@@ -1,9 +1,8 @@
 import os
 
 TEXT = (
-    "Dear all, I resign to spend more time with my family, "
-    "by which I mean the houseplants who have never scheduled "
-    "a meeting that could have been an email."
+    "Please accept my resignation: I have accepted a position at a company "
+    "whose printer works and whose Mondays are legally optional."
 )
 
 
